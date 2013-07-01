@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.12701,
+                    18.050398,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AUC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.109589,
+                    18.040932,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Airport (SXM)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.048798,
+                    18.100559,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Case Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.046169,
+                    18.01161,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Port of Sint Maarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.086842,
+                    18.029343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Megaplex 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.094654,
+                    18.037352,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dive Safaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.05381,
+                    18.104227,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Octopus Diving"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.058132,
+                    18.070635,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loterie Farm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.079418,
+                    18.022528,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seaside Nature Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.077934,
+                    18.037773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "KidsWorld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.043274,
+                    18.027822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carnival Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.059723,
+                    18.014692,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Amsterdam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.085468,
+                    18.070595,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fort Louis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.047707,
+                    18.03834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Maarten Zoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.022427,
+                    18.08008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Butterfly Farm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.015926,
+                    18.084059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Orient Beach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.094631,
+                    18.036856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tri-Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.095375,
+                    18.030819,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aqua Mania Adventures"
+            }
+        }
+    ]
+}
