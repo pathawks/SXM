@@ -13,7 +13,6 @@
             },
             "properties": {
                 "name": "AUC",
-                "string": null
             }
         },
         {
@@ -28,7 +27,6 @@
             },
             "properties": {
                 "name": "US Market",
-                "string": null
             }
         },
         {
@@ -43,7 +41,6 @@
             },
             "properties": {
                 "name": "Kwik Bargains",
-                "string": null
             }
         },
         {
@@ -58,7 +55,6 @@
             },
             "properties": {
                 "name": "ACE Megacenter",
-                "string": null
             }
         },
         {
@@ -73,7 +69,6 @@
             },
             "properties": {
                 "name": "Blue Point",
-                "string": null
             }
         },
         {
@@ -88,7 +83,6 @@
             },
             "properties": {
                 "name": "Computiqué",
-                "string": null
             }
         },
         {
@@ -103,7 +97,6 @@
             },
             "properties": {
                 "name": "Thrifty Car Rental",
-                "string": null
             }
         },
         {
@@ -118,7 +111,6 @@
             },
             "properties": {
                 "name": "Optic 2000",
-                "string": null
             }
         },
         {
@@ -133,7 +125,6 @@
             },
             "properties": {
                 "name": "Maho Pharmacy",
-                "string": null
             }
         },
         {
@@ -148,7 +139,6 @@
             },
             "properties": {
                 "name": "SXM Airport",
-                "string": null
             }
         },
         {
@@ -163,7 +153,6 @@
             },
             "properties": {
                 "name": "The Mailbox",
-                "string": null
             }
         },
         {
@@ -178,7 +167,6 @@
             },
             "properties": {
                 "name": "Gourmet Marché",
-                "string": null
             }
         },
         {
@@ -193,7 +181,6 @@
             },
             "properties": {
                 "name": "Gourmet Marché",
-                "string": null
             }
         },
         {
@@ -208,7 +195,6 @@
             },
             "properties": {
                 "name": "Grand Marché",
-                "string": null
             }
         },
         {
@@ -223,7 +209,6 @@
             },
             "properties": {
                 "name": "Grand Marché",
-                "string": null
             }
         },
         {
@@ -238,7 +223,6 @@
             },
             "properties": {
                 "name": "Cost U Less",
-                "string": null
             }
         },
         {
@@ -253,7 +237,6 @@
             },
             "properties": {
                 "name": "Prime",
-                "string": null
             }
         }
     ]
