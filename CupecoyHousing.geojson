@@ -1,0 +1,313 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127003,
+                    18.050398,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "American University of the Caribbean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.109447,
+                    18.04084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Princess Juliana International Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.130398,
+                    18.050495,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arbor Estates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.129559,
+                    18.05158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aventura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127785,
+                    18.052938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blue Lagoon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127522,
+                    18.051321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Campus Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.129833,
+                    18.049017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Cliffs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.128868,
+                    18.052786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cote d'Azure Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.128731,
+                    18.052153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cote d'Azure Residence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.128853,
+                    18.048317,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cupecoy Beach Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127285,
+                    18.050791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flamboyant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127323,
+                    18.051193,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lagoon View"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.130409,
+                    18.051683,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mahogany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.133415,
+                    18.050392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ocean Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.129063,
+                    18.051159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palm Court"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.134373,
+                    18.053499,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Porto Cupecoy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.131035,
+                    18.049358,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rainbow Beach Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.129696,
+                    18.052149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Regency Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.12756,
+                    18.050928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rising Sun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.126949,
+                    18.05229,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Summit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.132515,
+                    18.050097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sapphire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.129379,
+                    18.050011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tradewinds"
+            }
+        }
+    ]
+}
