@@ -1,1 +1,260 @@
-while(1);{title:"SXM Shopping - Google Maps",url:"/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26msa=0\x26msid=212762203100057001490.0004c2b01c0b8c25319c1",urlViewport:false,ei:"RO_RUdK1HMq8twewjIHwCg",form:{selected:"q",q:{q:"",what:"",near:""},d:{saddr:"",daddr:""},geocode:""},query:{type:"dq"},viewport:{center:{lat:18.062833000000001,lng:-63.088298999999999},span:{lat:0.067465999999999998,lng:0.094705999999999999},mapType:"",source:1},modules:["","kml","appiw","mp","ms","rst"],overlays:{sxcar:false},panelId:0,ms_map:{name:"SXM Shopping",description:"",mapid:"212762203100057001490.0004c2b01c0b8c25319c1",owner_str:"By \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e",is_owner:true,owner_email:"patrick.hawks@gmail.com",last_modified:"Updated Oct 24, 2012",public_write:false,is_public_listed:true,last_refreshed:"1372712772472950",kmlOverlays:{name:"Contents",description:"",markers:[{id:"A",fid:"0004c2b02522ff5b81504",latlng:{lat:18.05048,lng:-63.127082000000001},image:"http://aucspousesorganization.files.wordpress.com/2011/06/university.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"AUC @18.050480,-63.127082",geocode:"",sxti:"AUC",name:"AUC",description:"",infoWindow:{title:"AUC",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"B",fid:"0004ccd42423324bd4acc",latlng:{lat:18.040839999999999,lng:-63.109448999999998},image:"http://aucspousesorganization.files.wordpress.com/2012/09/airport.png",ext:{width:32,height:37,shadow:"http://http/",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"SXM Airport @18.040840,-63.109449",geocode:"",sxti:"SXM Airport",name:"SXM Airport",description:"",infoWindow:{title:"SXM Airport",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"C",fid:"0004ccd43e7e55aaf2996",latlng:{lat:18.039138999999999,lng:-63.096231000000003},image:"http://aucspousesorganization.files.wordpress.com/2012/10/postal.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"The Mailbox @18.039139,-63.096231",geocode:"",sxti:"The Mailbox",name:"The Mailbox",description:"",infoWindow:{title:"The Mailbox",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"D",fid:"0004c2b0218d6e5f118e4",latlng:{lat:18.053032999999999,lng:-63.135652},image:"http://aucspousesorganization.files.wordpress.com/2011/06/grocery.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Gourmet Marché @18.053033,-63.135652",geocode:"",sxti:"Gourmet Marché",name:"Gourmet Marché",description:"",infoWindow:{title:"Gourmet Marché",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"E",fid:"0004c2b028fc515abc722",latlng:{lat:18.039815000000001,lng:-63.096851000000001},image:"http://aucspousesorganization.files.wordpress.com/2011/06/grocery.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Gourmet Marché @18.039815,-63.096851",geocode:"",sxti:"Gourmet Marché",name:"Gourmet Marché",description:"",infoWindow:{title:"Gourmet Marché",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"F",fid:"0004ccd420e44875d7d4a",latlng:{lat:18.042971999999999,lng:-63.085234},image:"http://aucspousesorganization.files.wordpress.com/2011/06/supermarket.png",ext:{width:32,height:37,shadow:"http://http/",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Grand Marché @18.042972,-63.085234",geocode:"",sxti:"Grand Marché",name:"Grand Marché",description:"",infoWindow:{title:"Grand Marché",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"G",fid:"0004ccd4287ea02bd1348",latlng:{lat:18.034483999999999,lng:-63.06427},image:"http://aucspousesorganization.files.wordpress.com/2011/06/supermarket.png",ext:{width:32,height:37,shadow:"http://http/",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Grand Marché @18.034484,-63.064270",geocode:"",sxti:"Grand Marché",name:"Grand Marché",description:"",infoWindow:{title:"Grand Marché",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"H",fid:"0004ccd42ca8cfec1575b",latlng:{lat:18.035157000000002,lng:-63.062778999999999},image:"http://aucspousesorganization.files.wordpress.com/2011/06/supermarket.png",ext:{width:32,height:37,shadow:"http://http/",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Cost U Less @18.035157,-63.062779",geocode:"",sxti:"Cost U Less",name:"Cost U Less",description:"",infoWindow:{title:"Cost U Less",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"I",fid:"0004c2b02c9d0dcb4b8b7",latlng:{lat:18.035769999999999,lng:-63.080917999999997},image:"http://aucspousesorganization.files.wordpress.com/2011/06/supermarket.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Prime @18.035770,-63.080918",geocode:"",sxti:"Prime",name:"Prime",description:"",infoWindow:{title:"Prime",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"J",fid:"0004ccd4374f4e3188e38",latlng:{lat:18.096565999999999,lng:-63.040945999999998},image:"http://aucspousesorganization.files.wordpress.com/2011/06/supermarket.png",ext:{width:32,height:37,shadow:"http://http/",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"US Market @18.096566,-63.040946",geocode:"",sxti:"US Market",name:"US Market",description:"",infoWindow:{title:"US Market",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"K",fid:"0004c2b030347df50ea87",latlng:{lat:18.033432999999999,lng:-63.061050999999999},image:"http://aucspousesorganization.files.wordpress.com/2011/06/homecenter.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Kwik Bargains @18.033433,-63.061051",geocode:"",sxti:"Kwik Bargains",name:"Kwik Bargains",description:"",infoWindow:{title:"Kwik Bargains",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"L",fid:"0004c2b033cb7c63fa1f3",latlng:{lat:18.037963000000001,lng:-63.080432999999999},image:"http://aucspousesorganization.files.wordpress.com/2011/06/homecenter.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"ACE Megacenter @18.037963,-63.080433",geocode:"",sxti:"ACE Megacenter",name:"ACE Megacenter",description:"",infoWindow:{title:"ACE Megacenter",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"M",fid:"0004c2b04ea129e28c663",latlng:{lat:18.0291,lng:-63.084834999999998},image:"http://aucspousesorganization.files.wordpress.com/2012/09/computers.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Blue Point @18.029100,-63.084835",geocode:"",sxti:"Blue Point",name:"Blue Point",description:"",infoWindow:{title:"Blue Point",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"N",fid:"0004c2b05009f97268dce",latlng:{lat:18.032561000000001,lng:-63.089182000000001},image:"http://aucspousesorganization.files.wordpress.com/2012/09/computers.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Computiqué @18.032561,-63.089182",geocode:"",sxti:"Computiqué",name:"Computiqué",description:"",infoWindow:{title:"Computiqué",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"O",fid:"0004ccd4724e2c8b8b598",latlng:{lat:18.05048,lng:-63.132976999999997},image:"http://aucspousesorganization.files.wordpress.com/2012/10/carrental.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Thrifty Car Rental @18.050480,-63.132977",geocode:"",sxti:"Thrifty Car Rental",name:"Thrifty Car Rental",description:"",infoWindow:{title:"Thrifty Car Rental",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"P",fid:"0004ccd451d22ee381b43",latlng:{lat:18.065538,lng:-63.086500000000001},image:"http://aucspousesorganization.files.wordpress.com/2012/10/ophthalmologist.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Optic 2000 @18.065538,-63.086500",geocode:"",sxti:"Optic 2000",name:"Optic 2000",description:"",infoWindow:{title:"Optic 2000",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]},{id:"Q",fid:"0004ccd46e5fe96c3f3f9",latlng:{lat:18.042739999999998,lng:-63.120027999999998},image:"http://aucspousesorganization.files.wordpress.com/2012/10/drugstore.png",ext:{width:32,height:37,shadow:"http:",shadow_width:59,shadow_height:37,mask:false},drg:false,laddr:"Maho Pharmacy @18.042740,-63.120028",geocode:"",sxti:"Maho Pharmacy",name:"Maho Pharmacy",description:"",infoWindow:{title:"Maho Pharmacy",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",dscr:"",dscr_dir:"ltr",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:0,elms:[4,1,6,2,12,1,5]}]},order:["0004c2b02522ff5b81504","0004ccd42423324bd4acc","0004ccd43e7e55aaf2996","0004c2b0218d6e5f118e4","0004c2b028fc515abc722","0004ccd420e44875d7d4a","0004ccd4287ea02bd1348","0004ccd42ca8cfec1575b","0004c2b02c9d0dcb4b8b7","0004ccd4374f4e3188e38","0004c2b030347df50ea87","0004c2b033cb7c63fa1f3","0004c2b04ea129e28c663","0004c2b05009f97268dce","0004ccd4724e2c8b8b598","0004ccd451d22ee381b43","0004ccd46e5fe96c3f3f9"],can_edit:true,can_edit_acl:true,feature_metadata:[{fid:"0004c2b02522ff5b81504",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004ccd42423324bd4acc",attr:[{k:"_zoom",v:"17"},{k:"_localRef",v:"true"},{k:"_cid",v:"13750093872843099963"}],updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012",sesame_lookup:{id:"A",cid:"13750093872843099963",latlng:{lat:18.040832999999999,lng:-63.109444000000003},image:"https://maps.gstatic.com/intl/en_ALL/mapfiles/markers2/markerA.png",sprite:{width:20,height:34,top:0,image:"https://maps.gstatic.com/mapfiles/markers2/red_markers_A_J2.png"},icon_id:"A",drg:false,laddr:"Princess Juliana International Airport, Beacon Hill Road, Simpson Bay, Sint Maarten",geocode:"Cc3G2hSCYtk7FQFIEwEdvAY9_ClV9GaqTGkOjDE7jxa3hiXSvg",sxti:"Princess Juliana International Airport",name:"Princess Juliana International Airport",infoWindow:{title:"Princess Juliana International Airport",addressLines:["Beacon Hill Road","Simpson Bay, Sint Maarten"],hp:{url:"http://maps.google.com/local_url?dq=\x26q=http://www.sxmairport.com/\x26oi=miw\x26sa=X\x26ct=miw_link\x26cd=1\x26cad=homepage,cid:13750093872843099963\x26ei=RO_RUdK1HMq8twewjIHwCg\x26s=ANYYN7nQ8J3OzxXt72WXz5If6lKQwWRKBw",domain:"sxmairport.com",actual_url:"http://www.sxmairport.com/"},sig2:"t0pTe_gHGZT6Tt8WMwwojA",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",moreInfo:"more info",place_url:"",reviews:18,zrvOk:true,deprecated_stars:4.5,link_jsaction:"app.showMoreInfo",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:2,elms:[4,1,6,2,12,1,5]}},{fid:"0004ccd43e7e55aaf2996",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012"},{fid:"0004c2b0218d6e5f118e4",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004c2b028fc515abc722",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004ccd420e44875d7d4a",attr:[{k:"_zoom",v:"17"},{k:"_localRef",v:"true"},{k:"_cid",v:"4628151016265799546"}],updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012",sesame_lookup:{id:"E",cid:"4628151016265799546",latlng:{lat:18.043059,lng:-63.085501999999998},image:"https://maps.gstatic.com/intl/en_ALL/mapfiles/markers2/markerE.png",sprite:{width:20,height:34,top:136,image:"https://maps.gstatic.com/mapfiles/markers2/red_markers_A_J2.png"},icon_id:"E",drg:false,laddr:"Le Grand Marche, Union Road, Sint Maarten",geocode:"CVwM2c11Zk6OFbNQEwEdQmQ9_ClxSlhWlW4OjDF612IL1H46QA",sxti:"Le Grand Marche",name:"Le Grand Marche",infoWindow:{title:"Le Grand Marche",addressLines:["Union Road","Sint Maarten"],sig2:"Bgjkmc3fcT9NLAV2B9tozA",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",moreInfo:"more info",place_url:"",zrvOk:true,link_jsaction:"app.showMoreInfo",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:2,elms:[4,1,6,2,12,1,5]}},{fid:"0004ccd4287ea02bd1348",attr:[{k:"_zoom",v:"19"},{k:"_localRef",v:"true"},{k:"_cid",v:"4516520583718768137"}],updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012",sesame_lookup:{id:"C",cid:"4516520583718768137",latlng:{lat:18.034693999999998,lng:-63.064248999999997},image:"https://maps.gstatic.com/intl/en_ALL/mapfiles/markers2/markerC.png",sprite:{width:20,height:34,top:68,image:"https://maps.gstatic.com/mapfiles/markers2/red_markers_A_J2.png"},icon_id:"C",drg:false,laddr:"Le Grand Marche, Crocus Road, Sint Maarten",geocode:"Cb2epNAtrpikFQYwEwEdR7c9_Cm1646GiW4OjDEJDkyViuetPg",sxti:"Le Grand Marche",name:"Le Grand Marche",infoWindow:{title:"Le Grand Marche",addressLines:["Crocus Road","Sint Maarten"],hp:{url:"http://maps.google.com/local_url?dq=\x26q=http://www.legrandmarche.net/\x26oi=miw\x26sa=X\x26ct=miw_link\x26cd=1\x26cad=homepage,cid:4516520583718768137\x26ei=RO_RUdK1HMq8twewjIHwCg\x26s=ANYYN7mtEcFcJzgDoQe6U9TrLCmfSaGg-g",domain:"legrandmarche.net",actual_url:"http://www.legrandmarche.net/"},sig2:"gbugripha6A0ckQm7Mp8Xg",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",moreInfo:"more info",place_url:"",reviews:3,zrvOk:true,link_jsaction:"app.showMoreInfo",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:2,elms:[4,1,6,2,12,1,5]}},{fid:"0004ccd42ca8cfec1575b",attr:[{k:"_zoom",v:"17"},{k:"_localRef",v:"true"},{k:"_cid",v:"9999548877410894084"}],updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012",sesame_lookup:{id:"D",cid:"9999548877410894084",latlng:{lat:18.035153999999999,lng:-63.062776999999997},image:"https://maps.gstatic.com/intl/en_ALL/mapfiles/markers2/markerD.png",sprite:{width:20,height:34,top:102,image:"https://maps.gstatic.com/mapfiles/markers2/red_markers_A_J2.png"},icon_id:"D",drg:false,laddr:"Cost U Less, 72 Bush Road, Sint Maarten",geocode:"CXzEGZu9UysXFdIxEwEdB709_Cn9J8Uaim4OjDEEgTtguYjFig",sxti:"Cost U Less",name:"Cost U Less",infoWindow:{title:"Cost U Less",addressLines:["72 Bush Road","Sint Maarten"],phones:[{number:"+599 542 9860"}],sig2:"Pa0aNbYniQcqRR6Y_uRndA",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",moreInfo:"more info",place_url:"",zrvOk:true,link_jsaction:"app.showMoreInfo",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:2,elms:[4,1,6,2,12,1,5]}},{fid:"0004c2b02c9d0dcb4b8b7",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004ccd4374f4e3188e38",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012"},{fid:"0004c2b030347df50ea87",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004c2b033cb7c63fa1f3",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004c2b04ea129e28c663",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004c2b05009f97268dce",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Sep 25, 2012"},{fid:"0004ccd4724e2c8b8b598",attr:[{k:"_zoom",v:"15"},{k:"_localRef",v:"true"},{k:"_cid",v:"11115649836891179462"}],updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012",sesame_lookup:{id:"B",cid:"11115649836891179462",latlng:{lat:18.05048,lng:-63.132980000000003},image:"https://maps.gstatic.com/intl/en_ALL/mapfiles/markers2/markerB.png",sprite:{width:20,height:34,top:34,image:"https://maps.gstatic.com/mapfiles/markers2/red_markers_A_J2.png"},icon_id:"B",drg:false,laddr:"Wyndham Sapphire Beach Club \x26 Resort St. Martin, 147 Lowlands, Cupecoy, Sint Maarten",geocode:"Cc7OPhWr1y8yFbBtEwEdzKo8_CmtQxqwamkOjDHGCYcnorhCmg",sxti:"Wyndham Sapphire Beach Club \x26 Resort St. Martin",name:"Wyndham Sapphire Beach Club \x26 Resort St. Martin",infoWindow:{title:"Wyndham Sapphire Beach Club \x26amp; Resort St. Martin",addressLines:["147 Lowlands","Cupecoy, Sint Maarten"],phones:[{number:"+599 545 2179"}],sig2:"zTLgpx2BNnQzZ_sm1Vc2_Q",basics:"\x3cdiv transclude=\"iw\"\x3e\x3c/div\x3e",moreInfo:"more info",place_url:"",reviews:2,zrvOk:true,link_jsaction:"app.showMoreInfo",enable_five_stars:false},ss:{edit:false,detailseditable:false,deleted:false,rapenabled:false,mmenabled:false},b_s:2,elms:[4,1,6,2,12,1,5]}},{fid:"0004ccd451d22ee381b43",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012"},{fid:"0004ccd46e5fe96c3f3f9",updater_str:"Last Updated by \x3ca href=\"/maps/user?uid=212762203100057001490\x26hl=en\"\x3ePat Hawks\x3c/a\x3e on Oct 24, 2012"}],is_open_invite:false,num_collaborators:1,num:200,viewport:{center:{lat:18.062833000000001,lng:-63.088298999999999},span:{lat:0.067465999999999998,lng:0.094705999999999999},mapType:""},view_count_str:"782 views",num_returned:17,total:17,created_str:"Created on Jun 17, 2012",updated_str:"Updated Oct 24, 2012",use_onion:false,terms_url:"/intl/en_ALL/help/terms_maps.html",dmca_url:"/intl/en_ALL/dmca.html",last_modified_secs:"1351116250"},owned_maps:[{id:"2000000",title:"To Sint Maarten Zoo",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004e07937b1aeda80d3b\x26output=ghapi"},feed:"212762203100057001490.0004e07937b1aeda80d3b",privacy_status:"pub"},{id:"2000001",title:"SXM Activities",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004ccd53ab0eee966e55\x26output=ghapi"},feed:"212762203100057001490.0004ccd53ab0eee966e55",privacy_status:"pub"},{id:"2000002",title:"SXM Communication",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004ccd5c5e646a78a887\x26output=ghapi"},feed:"212762203100057001490.0004ccd5c5e646a78a887",privacy_status:"pub"},{id:"2000003",title:"SXM Shopping",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004c2b01c0b8c25319c1\x26output=ghapi"},feed:"212762203100057001490.0004c2b01c0b8c25319c1",privacy_status:"pub"},{id:"2000004",title:"Neighborhoods around AUC",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004ccc08742bb67b12e6\x26output=ghapi"},feed:"212762203100057001490.0004ccc08742bb67b12e6",privacy_status:"pub"},{id:"2000005",title:"Cupecoy Housing",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004c2b0fa3a6e6343d40\x26output=ghapi"},feed:"212762203100057001490.0004c2b0fa3a6e6343d40",privacy_status:"pub"},{id:"2000006",title:"Places to Visit",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.00049760293dad8371fbd\x26output=ghapi"},feed:"212762203100057001490.00049760293dad8371fbd",privacy_status:"pub"},{id:"2000007",title:"SE Vacation",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.0004972efaf1799df19f2\x26output=ghapi"},feed:"212762203100057001490.0004972efaf1799df19f2",privacy_status:"unl"},{id:"2000008",title:"Mystery Road",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.00048680aab8832c97e8c\x26output=ghapi"},feed:"212762203100057001490.00048680aab8832c97e8c",privacy_status:"pub"},{id:"2000009",title:"Colorado Youth Trip 2009",type:"ms",zipped:true,prefs:{module_spec_url:"http://maps.google.com/maps/ms?authuser=0\x26vps=2\x26ie=UTF8\x26hl=en\x26oe=UTF8\x26msa=0\x26msid=212762203100057001490.00046cdfaa38ab16e67b7\x26output=ghapi"},feed:"212762203100057001490.00046cdfaa38ab16e67b7",privacy_status:"unl"}],print_static:true,dopts:{dtm:"d",atms:["d","r","w","b"],ddu:"m",transit:{hts:true,tmos:["now","dep","arr"],tm:{d:"now"},date:{},time:{v:"utc:1372712760"},sos:["def","num","walk"],st:{d:"def"},ne:{h:true},na:{h:true},ptmos:["","B","S","T","R"]}},keep_module_state:true,slayers_trigger:false,timeformat:{ampm:true,dp:"mdy"},activityType:11,page_conf:{topbar_config:{show_panel_toggler:true,directions_url:"javascript:void(0)",show_directions_link:true,startcol_only:true,show_my_places_link:true,my_places_url:"javascript:void(0)",enabled_kennedy_ui:true},panel_display:true}}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.127082,
+                    18.05048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AUC",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.040946,
+                    18.096566,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "US Market",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.061051,
+                    18.033433,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kwik Bargains",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.080433,
+                    18.037963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ACE Megacenter",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.084835,
+                    18.0291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blue Point",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.089182,
+                    18.032561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Computiqué",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.132977,
+                    18.05048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thrifty Car Rental",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.0865,
+                    18.065538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Optic 2000",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.120028,
+                    18.04274,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maho Pharmacy",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.109449,
+                    18.04084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SXM Airport",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.096231,
+                    18.039139,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Mailbox",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.135652,
+                    18.053033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Marché",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.096851,
+                    18.039815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gourmet Marché",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.085234,
+                    18.042972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Marché",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.06427,
+                    18.034484,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Marché",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.062779,
+                    18.035157,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cost U Less",
+                "string": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.080918,
+                    18.03577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prime",
+                "string": null
+            }
+        }
+    ]
+}
