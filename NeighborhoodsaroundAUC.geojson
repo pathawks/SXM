@@ -164,9 +164,7 @@
                 ]
             },
             "properties": {
-                "name": "Porto Cupecoy",
-                "marker-color" : "#0000ff",
-                "color" : "#ff0000"
+                "name": "Porto Cupecoy"
             }
         },
         {
