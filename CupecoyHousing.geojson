@@ -12,7 +12,10 @@
                 ]
             },
             "properties": {
-                "name": "American University of the Caribbean"
+                "name": "American University of the Caribbean",
+                "marker-symbol" : "college",
+                "marker-color" : "#1974B3",
+                "marker-size" : "medium"
             }
         },
         {
@@ -26,7 +29,9 @@
                 ]
             },
             "properties": {
-                "name": "Princess Juliana International Airport"
+                "name": "Princess Juliana International Airport",
+                "marker-symbol" : "airport",
+                "marker-size" : "medium"
             }
         },
         {
